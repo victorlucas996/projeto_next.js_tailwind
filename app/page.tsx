@@ -4,15 +4,15 @@ export default function Home() {
   return (
     <div className="py-12 flex flex-col items-center text-center">
       <div className="inline-block bg-blue-500/10 border border-blue-500/20 text-blue-400 text-xs px-3 py-1 rounded-full font-semibold uppercase tracking-wider mb-4">
-        Projeto Next.js do Victor
+        Projeto Next.JS do Victor
       </div>
       
       <h1 className="text-4xl sm:text-5xl font-extrabold text-white tracking-tight mb-4">
-        Bem-vindo ao <span className="text-blue-400">Victor | Next.js</span>
+        Bem-vindo ao <span className="text-blue-400">Victor | Next.JS</span>
       </h1>
       
       <p className="max-w-2xl text-lg text-zinc-400 mb-10 leading-relaxed">
-        Este site foi construído com Next.js, React e Tailwind CSS. Explore as páginas abaixo para navegar pelo conteúdo e testar as transições de rotas.
+        Este site foi construído com Next.JS, React e Tailwind CSS. Explore as páginas abaixo para navegar pelo conteúdo e testar as transições de rotas.
       </p>
 
       {/* Ações / Links principais */}

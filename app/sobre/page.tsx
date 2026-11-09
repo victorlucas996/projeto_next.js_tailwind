@@ -17,8 +17,8 @@ export default function SobreNos() {
       </h1>
 
       {/* Conteúdo zerado para início do desenvolvimento */}
-      <div className="p-12 border border-dashed border-zinc-300 dark:border-zinc-800 rounded-xl text-center text-zinc-500 text-sm">
-        Página Sobre Nós pronta para novo conteúdo.
+      <div className="p-12 border border-dashed border-zinc-300 dark:border-zinc-700 rounded-xl text-center text-zinc-100 text-sm">
+        Somos uma equipe dedicada a fornecer soluções inovadoras e de alta qualidade para nossos clientes. Nosso objetivo é criar experiências excepcionais e impactar positivamente a vida das pessoas através de nossos produtos e serviços.
       </div>
     </div>
   );

@@ -32,7 +32,7 @@ export default function RootLayout({
         <Header />
         <main className="flex-1 max-w-6xl w-full mx-auto p-6">{children}</main>
         <footer className="bg-zinc-950 border-t border-zinc-800 text-center py-6 text-sm text-zinc-500">
-          © 2026 victor | Next.js - Todos os direitos reservados.
+          © 2026 Victor  - Todos os direitos reservados.
         </footer>
       </body>
     </html>

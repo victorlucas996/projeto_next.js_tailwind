@@ -10,8 +10,8 @@ export default function Header() {
           className="text-xl font-bold tracking-tight hover:text-zinc-300 transition-colors flex items-center gap-2"
         >
           <span>Victor</span>
-          <span className="text-zinc-500 font-normal">|</span>
-          <span className="text-blue-400">Next.js</span>
+          <span className="text-zinc-400 font-normal">|</span>
+          <span className="text-blue-400">Next.JS</span>
         </Link>
 
         {/* Canto superior direito: HOME | SOBRE NÓS | PRODUTOS */}
@@ -22,14 +22,14 @@ export default function Header() {
           >
             HOME
           </Link>
-          <span className="text-zinc-600 font-normal select-none">|</span>
+          <span className="text-zinc-400 font-normal select-none">|</span>
           <Link 
             href="/sobre" 
             className="hover:text-white transition-colors uppercase"
           >
             SOBRE NÓS
           </Link>
-          <span className="text-zinc-600 font-normal select-none">|</span>
+          <span className="text-zinc-400 font-normal select-none">|</span>
           <Link 
             href="/produtos" 
             className="hover:text-white transition-colors uppercase"

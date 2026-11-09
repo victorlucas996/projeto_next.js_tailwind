@@ -17,7 +17,7 @@ export default function Produtos() {
       </h1>
 
       {/* Conteúdo zerado para início do desenvolvimento */}
-      <div className="p-12 border border-dashed border-zinc-300 dark:border-zinc-800 rounded-xl text-center text-zinc-500 text-sm">
+      <div className="p-12 border border-dashed border-zinc-300 dark:border-zinc-700 rounded-xl text-center text-zinc-100 text-sm ">
         Página de Produtos pronta para novo conteúdo.
       </div>
     </div>
